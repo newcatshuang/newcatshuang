@@ -10,14 +10,12 @@
 - ☕ &nbsp; I belive, better later than never. 
 
 <h3>🛠 Tech Stack</h3>
-<br>
 - 💻 &nbsp; C# | .NET | .NET CORE | ASP.NET CORE |Blazor WebAssembly
 - 🌐 &nbsp; IdentityServer4 | Quart.NET | gRPC | Dapr | dapper | Orleans 
 - 🛢 &nbsp; Sql Server | MySQL | PostgreSQL | SQLite
 - 🔧 &nbsp; Visual Studio | Visual Studio Code | Windows Terminal | Git | Ubuntu Server
 - 📚 &nbsp; DDD | AOP | IOC | MicroService
 
-<br/>
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{newcatshuang}/count.svg" alt="NewcatsHuang :: Visitor's Count" /></p>
@@ -27,10 +25,4 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewcatsHuang&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/NewcatsHuang/github-readme-stats)
-- <img src="https://github-readme-stats.vercel.app/api?username=newcatshuang" />
-
-<!---
-newcatshuang/newcatshuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewcatsHuang&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/NewcatsHuang/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api?username=newcatshuang" />
