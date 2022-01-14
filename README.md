@@ -20,7 +20,7 @@
 
 ## Visitor's count
 
-<p ><img src="https://profile-counter.glitch.me/{newcatshuang}/count.svg" alt="NewcatsHuang :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{newcatshuang}/count.svg" alt="NewcatsHuang :: Visitor's Count" /></p>
 
 <br>
 
