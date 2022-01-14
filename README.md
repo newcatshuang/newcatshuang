@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp; I’m currently learning Golang and React.js
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science, computer programming.
 - 💼 &nbsp; .NET Web full stack developer.
 - ☕ &nbsp; I belive, better later than never.
 
