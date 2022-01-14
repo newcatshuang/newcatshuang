@@ -12,7 +12,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; C# | .NET | .NET CORE | ASP.NET CORE |Blazor WebAssembly
+- 💻 &nbsp; C# | .NET | .NET CORE | ASP.NET CORE | Blazor WebAssembly
 - 🌐 &nbsp; IdentityServer4 | Quart.NET | gRPC | Dapr | dapper | Orleans
 - 🛢 &nbsp; Sql Server | MySQL | PostgreSQL | SQLite
 - 🔧 &nbsp; Visual Studio | Visual Studio Code | Windows Terminal | Git | Ubuntu Server
